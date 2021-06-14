@@ -29,7 +29,7 @@ let questions = [
     options: [
       "Pandit ki",
       "Baali ki",
-      "Dono ki",
+      "Dono ki ",
       "Sabki"
     ]
   },
