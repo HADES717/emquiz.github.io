@@ -2,35 +2,35 @@
 let questions = [
     {
     numb: 1,
-    question: "Pandit Kya Hai",
-    answer: "Randi",
+    question: "What does HTML stand for?",
+    answer: "Hyper Text Markup Language",
     options: [
-      "Madarchod",
-      "Bahut Bada Madarchod",
-      "Randi",
-      "Gaandu"
+      "Hyper Text Preprocessor",
+      "Hyper Text Markup Language",
+      "Hyper Text Multiple Language",
+      "Hyper Tool Multi Language"
     ]
   },
     {
     numb: 2,
-    question: "Baali ki gaand me kitna dam hai",
-    answer: "Koi seema nahi hai",
+    question: "What does CSS stand for?",
+    answer: "Cascading Style Sheet",
     options: [
-      "Haathi ki gaand jitna",
-      "Jhaant dam nahi hai",
-      "Jhaant barabar",
-      "Koi seema nahi hai"
+      "Common Style Sheet",
+      "Colorful Style Sheet",
+      "Computer Style Sheet",
+      "Cascading Style Sheet"
     ]
   },
     {
     numb: 3,
-    question: "Sahu se kiski kiski gaand fatti hai",
+    question: "What does PHP stand for?",
     answer: "Hypertext Preprocessor",
     options: [
-      "Pandit ki",
-      "Baali ki",
-      "Dono ki ",
-      "Sabki"
+      "Hypertext Preprocessor",
+      "Hypertext Programming",
+      "Hypertext Preprogramming",
+      "Hometext Preprocessor"
     ]
   },
     {
